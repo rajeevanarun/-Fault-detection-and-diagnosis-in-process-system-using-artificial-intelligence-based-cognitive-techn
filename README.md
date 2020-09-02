@@ -1,9 +1,9 @@
 # -Fault-detection-and-diagnosis-in-process-system-using-artificial-intelligence-based-cognitive-techn
 
-de.py - data processing
-dic_onc.py - incremental one class algorithm
-nn_classification_final.py - self updating NN
-main_c - main code for train and test the model
+# de.py - data processing
+# dic_onc.py - incremental one class algorithm
+# nn_classification_final.py - self updating NN
+# main_c - main code for train and test the model
 
 call 'main(X_test)' function using your model test data
 you can update your data in de.py 
